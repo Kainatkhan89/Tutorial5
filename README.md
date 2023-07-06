@@ -6,7 +6,7 @@ This submission includes developement of APIs for GET, PUT, POST, and GET by use
 * *Last Modification Date*: 5 July 2023
 * *Lab URL*: https://dal.brightspace.com/d2l/le/content/274269/viewContent/3608634/View
 * *Git URL*: https://git.cs.dal.ca/kainat/csci_5709_kainat_khan_tutorials/-/tree/main/tutorial-5
-* *Netlify URL*: https://silly-tanuki-c3891e.netlify.app/
+* *Render URL*: https://expressrestapis.onrender.com/
 
 
 ## Authors.
